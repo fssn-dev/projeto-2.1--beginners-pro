@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    height: 100%;
+    width: 99.9%;
+    font-family: sans-serif;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar{
+    width: 0;
+}
+
+.wrapper{
+    min-height: 100%;
+    margin-bottom: -15vh;
+}
+
+header{
+    background-color: #222;
+    height: 10vh;
+}
+
+header div{
+    text-align: center;
+    color: #5cdb95;
+    font-size: 200%;
+    padding: 0.5%;
+}
+
+main{
+    background-image: url("images/markus-spiske-cvBBO4PzWPg-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    max-width: 100%;
+    min-height: 60vh;
+}
+
+#mainSection{
+    position: relative;
+    overflow: auto;
+}
+
+main div{
+    margin: 0 0.2em;
+    position: absolute;
+}
+
+#div1,#div3{
+    width: 25vw;
+    margin: 0 1vw;
+    overflow: auto;
+}
+
+nav a{
+    text-decoration: none;
+    color: #5cdb95;
+}
+
+#div1{
+    left: 0;
+    background-color: #2c2c2c;
+    
+}
+
+#div2{
+    width: 45vw;
+    background-color: #2c2c2c;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    min-height: inherit;
+    overflow: auto;
+}
+
+#div3{
+    text-align: center; 
+    right: 0;
+    background-color: #2c2c2c;
+}
+
+#div3 a{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #5cdb95;
+}
+
+.credits{
+    border-radius: 50%;
+    height: 15vw;
+    width: auto;
+    margin-left: -2%;
+}
+
+.exemploDiv{
+    color: #edf5e1;
+    border: 2px solid white;
+    margin: 0 2rem;
+    padding: 1rem;
+    height: auto;
+    width: 37.5vw;
+}
+
+pre code{
+    color: white;
+}
+
+.col h2{
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    margin: 32px;
+    color: #8ee4af;
+}
+
+.col h1{
+    margin-top: 2%;
+    margin-left: 30px;
+    color: #907163;
+    font-size: 20px;
+}
+
+.col p{
+    text-align: justify;
+    font-size: 18px;
+    padding: 5px;
+    color: #edf5e1;
+    max-width: 90%;
+    margin: 1% 4%;
+}
+
+ul,li,ol,h1,h2,h3,h4,h5,h6,p{
+    height: auto;
+    width: auto;
+}
+
+li{
+    margin-left: 3rem;
+}
+
+.push{
+    height: 15vh;
+}
+
+footer{
+    height: 15vh;
+    background-color: #222;
+}
+
+footer div{
+    width: 100px;
+    height: 10vh;
+    margin-left: 45vw;
+    padding-top: 2vh;
+}
+
+footer img{
+    max-width:  75px;
+    min-width: 75px;
+}
