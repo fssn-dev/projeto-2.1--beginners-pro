@@ -96,12 +96,12 @@ Project Link: [https://github.com/fssn-dev/projeto-2.1--beginners-pro](https://g
 
 ## Acknowledgments
 
-<!-- *[name](url) -->
+<!-- * [name](url) -->
 
-*[Artur Beljajev](https://stackoverflow.com/users/2987689/artur-beljajev)
-*[Chris Coyier](https://css-tricks.com/author/chriscoyier)
-*[Mike](https://stackoverflow.com/users/1725378/mike)
-*[Markus Spiske](https://unsplash.com/@markusspiske)
+* [Artur Beljajev](https://stackoverflow.com/users/2987689/artur-beljajev)
+* [Chris Coyier](https://css-tricks.com/author/chriscoyier)
+* [Mike](https://stackoverflow.com/users/1725378/mike)
+* [Markus Spiske](https://unsplash.com/@markusspiske)
 
 
 
